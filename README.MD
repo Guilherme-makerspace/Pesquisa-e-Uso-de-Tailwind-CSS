@@ -91,7 +91,7 @@ A principal distinção está na filosofia de design: **Componentes vs. Utilitá
 
 ### ___Resumo do Framework Escolhido: Tailwind CSS___
 
-O Tailwind CSS é um framework "utility-first" que permite a criação rápida de interfaces personalizadas diretamente no HTML. Ao contrário dos frameworks tradicionais, ele não impõe decisões de design, oferecendo classes utilitárias de baixo nível (como padding, margem, cor e tipografia) que podem ser compostas para construir qualquer componente. Ele possui um sistema de compilação JIT (Just-in-Time) que gera apenas o CSS necessário, resultando em performance superior.
+O Tailwind CSS é um framework "utility-first" que permite a criação rápida de interfaces personalizadas diretamente no HTML. Ao contrário dos frameworks tradicionais, ele não impõe decisões de design, oferecendo classes utilitárias de baixo nível que podem ser compostas para construir qualquer componente. Ele possui um sistema de compilação JIT (Just-in-Time) que gera apenas o CSS necessário, resultando em performance superior.
 
 ### ___Por que foi selecionado para o projeto?___ 
 
